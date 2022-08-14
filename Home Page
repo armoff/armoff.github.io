@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Madagascar</title>
+</head>
+
+<body>
+  <nav>
+    <a href="./index.html">Madagascar</a>
+    <a href="./aboutme.html">About Me</a>
+  </nav>
+  <h1>Madagascar</h1>
+  <nav>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#letters">Letters</a></li>
+      <li><a href="#setting">Country Overview</a></li>
+      <li><a href="#media">Media</a></li>
+    </ul>
+  </nav>
+  <div id="introduction">
+    <h2>About Madagascar</h2>
+    <p>Madagascar is a large island between the equator and the tropic of Capricorn (Ox Tropic for chinese cosmologists) home ot many new to me species, people, and plants. </p>
+    <a href="https://en.wikipedia.org/wiki/Madagascar" target="_blank">Learn More</a>
+    <div id="setting">
+    <h3>Setting</h3>
+    <!--The bulleted point of the list should lead to a seperate setting page with sections for each of the points below, using the <a href></a> tool-->
+    <ul>
+      <li>Geography</li>
+      <li>People</li>
+      <li>flora</li>
+      <li>Fauna</li>
+    </ul>
+    <h3>Peace Corps Mission</h3>
+    <p>here to insert copy about the mission of the peace corps. Perhaps even a section on my desire to join the PC, such as the political motivation, the wish to help by doing, and the goals that I think I can achieve, and the path that I would like to be set on. </p>
+  </div>
+  <div id="letters">
+    <h2>Letters</h2>
+        
+    <h3>These letters are responses to real or hypothetical conversations with an aim of describing to the stateside (or malagasophile) reader the working conditions of the Peace Corps, juicy tidbits of cultural lore, cathrtic recollection, and any other such writings.</h3>
+    <p>If you would like to write a letter to me, please do so via email (new eric email for madagascar), or physical mail to <br />Eric Yarmoff, PCT, Peace Corps<br />
+Corps de la Paix<br />
+B.P. 12091<br />
+Poste, Zoom Ankorondrano<br />
+101 Antananarivo<br />
+Madagascar<br /><br /></p>
+  </div>
+  <div id="media">
+    <h2>Media</h2>
+    <!--insert the file locations between the ""<img src="" />-->
+    <!--Same but for video<video src="" height="240" width="320" controls>Video not supported</video>-->
+  </div>
+</body>
+
+</html>
+

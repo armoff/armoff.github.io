@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>About Me</title>
+</head>
+<body>
+  <nav>
+    <a href="/">Madagascar</a>
+    
+    <a href="./aboutme.html">About Me</a>
+  </nav>
+
+<h1>About Me</h1>
+<h3>Eric Yarmoff</h3>
+
+  <!-- Eric Intro -->
+  <p> Eric Yarmoff has joined the peace corps and is in the process of creating a website to recount the work he will do and adventures he encounters.    <br /> <br />
+        He can be reached with questions at eyarmoff@u.rochester.edu
+You can write snail mail and send him care packages in Madagascar at the following address during training (september 2022 to December 2022):<br />
+  <br />Eric Yarmoff, PCT, Peace Corps<br />
+Corps de la Paix<br />
+B.P. 12091<br />
+Poste, Zoom Ankorondrano<br />
+101 Antananarivo<br />
+Madagascar<br /><br />
+This address is subject to change once Eric is working. <br />
+
+  	If anyone wished to help embellish this effort (with CSS?) please feel free to reach out.  <br /> <br />
+    Eric Y. <br />
+
+  </p>
+</body>
+</html>
