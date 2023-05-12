@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>About Me</title>
+</head>
+<body>
+  <nav>
+    <a href="/">Madagascar</a>
+    
+    <a href="./aboutme.html">About Me</a>
+    
+    <a href="./index.html">Letters</a>
+  </nav>
+
+<h1>About Me</h1>
+<h3>Eric Yarmoff</h3>
+
+  <!-- Eric Intro -->
+  <p> I have joined the Peace Corps (PC) and will be serving in Madagascar till the end of 2024.</br></br> This website catalogs my work and writing.    <br /> <br />
+        I can be reached with questions at eyarmoff@u.rochester.edu, or ericy@rmoff.me<br/></br>
+You can write snail mail and send me care packages in Madagascar:<br />
+ <br />Eric Yarmoff, <br/>
+BP10<br />
+Anjiro<br />
+415<br />
+Madagascar<br />
+<br /><br /></p>
+
+  	  <br /> <br />
+    Eric Y. <br />
+
+  </p>
+</body>
+</html>
